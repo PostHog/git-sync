@@ -1,6 +1,7 @@
 # Git Sync
 
 A GitHub Action for syncing between two independent repositories using **force push**.
+Includes a fix for the [HTTP/2 issue](https://github.com/orgs/community/discussions/55820).
 
 ## Features
 
